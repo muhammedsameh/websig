@@ -1,0 +1,242 @@
+@font-face {
+	font-family: lite;
+	src: url("fonts/CapitalGothic-Light.ttf");
+  }
+  @font-face {
+	font-family: reg;
+	src: url("fonts/CapitalGothic-Regular.ttf");
+  }
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 687px;
+	 height: 403px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Rectangle2 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 690px;
+	 height: 406px;
+	 z-index:1;
+} 
+
+ #Group1 
+{ 
+	 left: 46px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 176px;
+	 z-index:2;
+} 
+
+ #Followoninstagram 
+{ 
+	 left: 437px; 
+	 top: 324px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 19px;
+	 z-index:3;
+} 
+
+ #Rectangle1copy 
+{ 
+	 left: 418px; 
+	 top: 315px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 33px;
+	 z-index:4;
+} 
+
+ #Layer6 
+{ 
+	 left: 373px; 
+	 top: 318px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:5;
+} 
+
+ #RoundedRectangle1cop 
+{ 
+	 left: 353px; 
+	 top: 303px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 59px;
+	 z-index:6;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 114px; 
+	 top: 315px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 33px;
+	 z-index:7;
+} 
+
+ #behancelogovector 
+{ 
+	 left: 70px; 
+	 top: 324px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 18px;
+	 z-index:8;
+} 
+
+ #MyBehanceportfolio 
+{ 
+	 left: 123px; 
+	 top: 324px; 
+	 position: absolute; 
+	 width: 199px;
+	 height: 19px;
+	 z-index:9;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 50px; 
+	 top: 303px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 59px;
+	 z-index:10;
+} 
+
+ #fb 
+{ 
+	 left: 245px; 
+	 top: 237px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 34px;
+	 z-index:11;
+} 
+
+ #Layer10 
+{ 
+	 left: 297px; 
+	 top: 237px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 34px;
+	 z-index:12;
+} 
+
+ #Layer12 
+{ 
+	 left: 350px; 
+	 top: 236px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 35px;
+	 z-index:13;
+} 
+
+ #MuhammadSamehhotmail 
+{ 
+	font-family: reg;
+	font-size: medium;
+	 left: 281px; 
+	 top: 187px; 
+	 position: absolute; 
+	 width: 219px;
+	 height: 11px;
+	 z-index:14;
+} 
+
+ #Mailicon 
+{ 
+	 left: 249px; 
+	 top: 186px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 15px;
+	 z-index:15;
+} 
+
+ #layer_01008085398 
+{ 
+	font-family: reg;
+	font-size: small;
+	 left: 280px; 
+	 top: 160px;
+	 position: absolute; 
+	 width: 100px;
+	 height: 10px;
+	 z-index:16;
+} 
+
+ #Phoneicon 
+{ 
+	 left: 251px; 
+	 top: 152px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 24px;
+	 z-index:17;
+} 
+
+ #ElHadabaAlWostaCairo 
+{ 
+	font-family: reg;
+	font-size: small;
+	 left: 419px; 
+	 top: 161px; 
+	 position: absolute; 
+	 width: 177px;
+	 height: 14px;
+	 z-index:18;
+} 
+
+ #Locationicon 
+{ 
+	 left: 390px; 
+	 top: 156px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 20px;
+	 z-index:19;
+} 
+
+ #MuhammadSameh 
+{ 
+	 left: 245px; 
+	 top: 56px; 
+	 position: absolute; 
+	 width: 234px;
+	 height: 39px;
+	 z-index:20;
+} 
+
+ #GraphicDesigner 
+{ 
+	font-family: lite;
+	 left: 245px; 
+	 top: 105px; 
+	 position: absolute; 
+	 width: 159px;
+	 height: 19px;
+	 z-index:21;
+} 
